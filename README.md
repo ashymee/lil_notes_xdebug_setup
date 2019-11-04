@@ -10,8 +10,8 @@
 echo phpinfo();
 ```
 3. Copy semua laman tampil di layar, paste ke dalam kolom kosong di https://xdebug.org/wizard
-4. Download ***xdebug.tgz***
-5. Ekstrak file ***xdebug.tgz*** dengan perintah
+4. Download ***xdebug-2.8.0.tgz***
+5. Ekstrak file ***xdebug-2.8.0.tgz*** dengan perintah
 ```bash
 tar -xvzf xdebug-2.8.0.tgz
 ```
